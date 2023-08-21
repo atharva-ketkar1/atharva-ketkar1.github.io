@@ -2,7 +2,7 @@
 
 ## Link
 
-[https://atharvak.azurewebsites.net/](https://atharvak.azurewebsites.net/)
+[https://atharva-ketkar1.github.io/](https://atharva-ketkar1.github.io/)
 ## About
 
 Welcome to my portfolio website! This website showcases my different projects.
